@@ -1,2 +1,2 @@
 # HaskellCrossword
-This is a simple program that creates and runs a crossword puzzle. 
+This is a simple program that creates a crossword puzzle. 
